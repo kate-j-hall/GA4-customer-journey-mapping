@@ -21,11 +21,11 @@ This repository showcases a customer journey mapping project for an eCommerce re
 
 ## 🛠 Repository Contents
 
-/sql/
+`sql/`:
 └── sankey_grouped.sql # Builds grouped dataset for Sankey diagrams
 └── customer_journey.sql # Builds structured customer journey dataset
 
-/reports/
+`reports/`
 └── summary_report.md # One-pager with key findings and recommendations
 
 README.md # Project overview and documentation
